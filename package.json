@@ -1,0 +1,24 @@
+{
+  "name": "dnd-trains",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "enzyme": "^3.1.1",
+    "enzyme-adapter-react-16": "^1.0.4",
+    "moment": "^2.19.1",
+    "rc-time-picker": "^3.1.0",
+    "react": "^16.0.0",
+    "react-addons-test-utils": "^15.6.2",
+    "react-dnd": "^2.5.4",
+    "react-dnd-html5-backend": "^2.5.4",
+    "react-dom": "^16.0.0",
+    "react-scripts": "1.0.17",
+    "react-timekeeper": "^1.0.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

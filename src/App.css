@@ -1,0 +1,94 @@
+
+.engine {
+    width: 176px;
+    height: 216px;
+}
+.carriage{
+  width: 114px;
+  height: 141px;
+}
+.container{
+  background-color: #e2c9c9;
+}
+.addTrain{
+  text-align: center;
+  margin-top: 10px
+}
+.dragText{
+  margin: 19px 0px 6px 284px;
+}
+
+.timeTickerContainer{
+  position: absolute;
+}
+.dropStation{
+    position: relative;
+    height: 50px;
+    border: 1px dashed black;
+    margin: 11px 5px 0px 4px;
+}
+.dragPointer{
+  background: #d4ead7
+}
+button{
+  margin: 0px 15px 0px 0px;
+}
+.droppedEngine{
+  height: 90px;
+  width: 73px;
+}
+.timeContainer{
+  width: 17%;
+  display: inline-block;
+}
+.selectTimeContainer{
+  text-align: center;
+}
+.droppedCrg{
+  height: 73px;
+  width: 47px;
+}
+.engineContainer{
+  vertical-align:top;
+}
+.stationContainer{
+    background: #eae1e1;
+    height: 445px;
+    margin-top: 10px;
+    position: relative;
+    overflow-y: auto;
+}
+.dropItem{
+    display: inline-block;
+    height: 50px;
+    overflow: hidden;
+}
+.crgContainer{
+    padding-top: 35px;  
+}
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+.App-footer{
+  background-color: #222;
+  padding: 20px;
+  color: white;
+  text-align: center;
+  margin: 10px
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+.github{
+  cursor: pointer;
+}
+
